@@ -22,7 +22,6 @@ function addJQuery(callback) {
   }
 }
 
-
 // a function to initialize jquery using custom variable *jQ*
 function setNoConflict(callback) {
   var script = document.createElement("script");
