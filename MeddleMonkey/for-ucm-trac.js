@@ -7,7 +7,6 @@
 // ==/UserScript==
 
 
-
 function main() {
     addFontAwesomeAndRelatedCustomStyles();
     //if(jQ) {
