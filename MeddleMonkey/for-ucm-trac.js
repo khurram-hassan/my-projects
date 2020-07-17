@@ -1,10 +1,10 @@
 // ==UserScript==
-// @name 		For TRAC
-// @namespace 	My Scripts
-// @version      0.1.0
-// @grant 		none
-// @require		https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js
-// @include 	http://34.231.97.28:8444/*
+// @name        For TRAC
+// @namespace   My Scripts
+// @version     0.1.0
+// @grant       none
+// @require     https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js
+// @include     http://34.231.97.28:8444/*
 // ==/UserScript==
 
 
