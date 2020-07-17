@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        For TRAC
 // @namespace   My Scripts
-// @version     0.1.0
+// @version     0.1.1
 // @grant       none
 // @require     https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js
 // @include     http://34.231.97.28:8444/*
@@ -46,7 +46,7 @@ function main() {
           width: 200px;
           height: 60px;
           text-align: center;
-          border: 1px solid blue;
+          border: 1px solid beige;
           border-radius: 3px;
           background-color: beige;
           opacity: 0.5;
