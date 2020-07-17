@@ -45,7 +45,7 @@ function main() {
           width: 200px;
           height: 60px;
           text-align: center;
-          border: 1px solid beige;
+          border: 1px solid blue;
           border-radius: 3px;
           background-color: beige;
           opacity: 0.5;
