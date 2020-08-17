@@ -9,7 +9,7 @@ IF %ERRORLEVEL% NEQ 0 (
 )
 
 @ECHO ON
-C:\ProgramData\chocolatey\lib\scrcpy\tools\scrcpy-noconsole.exe -t -s %IP%:5555 --push-target /storage/emulated/0/Download
+C:\ProgramData\chocolatey\lib\scrcpy\tools\scrcpy.exe -t -s %IP%:5555 --push-target /storage/emulated/0/Download
 adb disconnect %IP%:5555
 
 :eof
