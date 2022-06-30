@@ -2,6 +2,6 @@
 **/.vs
 **/obj
 **/bin
+**/Aspose.Words.lic
 *.user
 *.DotSettings
-/ConsolePOCforWordDocumentManipulation/Aspose.Words.lic
