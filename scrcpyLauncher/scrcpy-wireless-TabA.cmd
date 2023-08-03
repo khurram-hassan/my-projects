@@ -1,7 +1,6 @@
 @REM Before using this script you need to execute following command while phone connected to PC via USB:
 @REM adb tcpip 5555
 
-@REM 192.168.0.104, 192.168.2.103, 192.168.1.103
 @set "IP=192.168.29.29"
 adb connect %IP%:5555 | find "connected to"
 @ECHO OFF
