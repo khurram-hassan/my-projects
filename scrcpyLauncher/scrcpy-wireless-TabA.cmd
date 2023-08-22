@@ -10,7 +10,7 @@ IF %ERRORLEVEL% NEQ 0 (
 )
 
 @ECHO ON
-scrcpy -w -t -s %IP%:5555 --video-bit-rate=2M --max-fps=15 --push-target /storage/emulated/0/Download
+scrcpy --turn-screen-off --stay-awake --show-touches --serial=%IP%:5555 --shortcut-mod=lalt,ralt --video-bit-rate=2M --max-fps=15 --push-target=/storage/emulated/0/Download
 adb disconnect %IP%:5555
 
 :eof
